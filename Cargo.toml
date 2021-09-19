@@ -1,0 +1,13 @@
+[package]
+name = "utilities"
+version = "0.0.0"
+authors = ["Rain Liu <yliu@webrtc.rs>"]
+edition = "2018"
+description = "Utilities for WebRTC.rs stack"
+license = "MIT/Apache-2.0"
+documentation = "https://docs.rs/utilities"
+homepage = "https://webrtc.rs"
+repository = "https://github.com/ngr-tc/utilities"
+
+
+[dependencies]
